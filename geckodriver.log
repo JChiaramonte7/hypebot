@@ -1,0 +1,71 @@
+1518107335194	geckodriver	INFO	geckodriver 0.19.1
+1518107335198	geckodriver	INFO	Listening on 127.0.0.1:60904
+1518107335623	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mv/0qb_gcv95f31cx_9rsk8r3x40000gn/T/rust_mozprofile.B2qG42Ed2854"
+1518107340127	Marionette	INFO	Enabled via --marionette
+2018-02-08 11:29:00.879 plugin-container[68184:11402949] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518107341214	Marionette	INFO	Listening on port 60915
+2018-02-08 11:29:01.807 plugin-container[68185:11403089] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa92b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518107361996	geckodriver	INFO	geckodriver 0.19.1
+1518107362000	geckodriver	INFO	Listening on 127.0.0.1:61037
+1518107362372	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mv/0qb_gcv95f31cx_9rsk8r3x40000gn/T/rust_mozprofile.FuvF5vqtohT7"
+1518107362760	Marionette	INFO	Enabled via --marionette
+2018-02-08 11:29:23.442 plugin-container[68199:11404107] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518107363726	Marionette	INFO	Listening on port 61044
+1518107363811	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-08 11:29:24.332 plugin-container[68206:11404216] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa843, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518107416995	geckodriver	INFO	geckodriver 0.19.1
+1518107416999	geckodriver	INFO	Listening on 127.0.0.1:61281
+1518107417373	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mv/0qb_gcv95f31cx_9rsk8r3x40000gn/T/rust_mozprofile.C2EeobvoK0MI"
+1518107417758	Marionette	INFO	Enabled via --marionette
+2018-02-08 11:30:18.415 plugin-container[68224:11405755] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518107418710	Marionette	INFO	Listening on port 61292
+1518107418811	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-08 11:30:19.324 plugin-container[68225:11405855] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaa43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518107456990	geckodriver	INFO	geckodriver 0.19.1
+1518107456994	geckodriver	INFO	Listening on 127.0.0.1:61504
+1518107457379	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mv/0qb_gcv95f31cx_9rsk8r3x40000gn/T/rust_mozprofile.h6GP7kxoCNde"
+1518107457771	Marionette	INFO	Enabled via --marionette
+2018-02-08 11:30:58.413 plugin-container[68244:11407119] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518107458723	Marionette	INFO	Listening on port 61515
+1518107458817	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-02-08 11:30:59.341 plugin-container[68245:11407234] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/application-02252c3533615fea7fdfd8eb18bd6768.js, line 18473: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
+JavaScript warning: http://d17ol771963kd3.cloudfront.net/assets/pooky.min-0f8420dc579c4bf5848451b9c0bae5fe.js, line 1: unreachable code after return statement
